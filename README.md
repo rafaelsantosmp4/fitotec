@@ -2,7 +2,7 @@
 ![Index.html](./medias/home.png)
 
 ## About ❗
-Fitotec is a project intended for the "Open House" event at the ETEC school in Poá. Everyone involved is:
+Fitotec is a project intended for the "Casa Aberta" event at the ETEC school in Poá. Everyone involved is:
 
 ## Members 👥
 <ul>
