@@ -1,17 +1,21 @@
+## About ❗
 Fitotec is a project intended for the "Open House" event at the ETEC school in Poá. Everyone involved is:
 
-Alice Farias Alexandre;
-Caio Custódio Parolin;
-Caroline Martins Silva;
-Danilo Viza GonçalesEstephani Magalhães dos Santos;
-Giovanna Rocha Souza Kharabetian;
-João Luiz Afonso Prado Menezes;
-Joaquim Dias Reis Neto;
-Leonardo Moreira Nakashima Monteiro;
-Maria Eduarda Brandão da Silva;
-Matheus Leandro Reis;
-Pollyana Maria dos Reis Pires;
-Rafael Santos Rodrigues (me);
-Raul Ribeiro Fialho;
-Rodrigo Costa de Jesus;
-Yasmin Victoria Pereira dos Santos;
+## Members 👥
+<ul>
+  <li>Alice Farias Alexandre</li>
+  <li>Caio Custódio Parolin</li>
+  <li>Caroline Martins Silva</li>
+  <li>Danilo Viza GonçalesEstephani Magalhães dos Santos</li>
+  <li>Giovanna Rocha Souza Kharabetian</li>
+  <li>João Luiz Afonso Prado Menezes</li>
+  <li>Joaquim Dias Reis Neto</li>
+  <li>Leonardo Moreira Nakashima Monteiro</li>
+  <li>Maria Eduarda Brandão da Silva</li>
+  <li>Matheus Leandro Reis</li>
+  <li>Pollyana Maria dos Reis Pires</li>
+  <li>Rafael Santos Rodrigues (me)</li>
+  <li>Raul Ribeiro Fialho</li>
+  <li>Rodrigo Costa de Jesus</li>
+  <li>Yasmin Victoria Pereira dos Santos</li>
+</ul>
